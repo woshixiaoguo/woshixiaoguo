@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## This is Guoguo!
 
-<a href="https://github.com/guoguo/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=woshixiaoguo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </a>
 
@@ -35,7 +35,7 @@ I'm passionate about creating software and tools to help people, and solving **r
 
 ## Skills
 
-<a href="https://github.com/guoguo/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woshixiaoguo&theme=radical" />
 </a>
 
