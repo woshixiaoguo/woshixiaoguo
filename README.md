@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center"> :octocat: <b>
   <a href="https://blog.guoguo.host">Website</a> / 
   <a href="">Resume</a> / 
@@ -52,4 +52,4 @@ I'm passionate about creating software and tools to help people, and solving **r
 
 
 - Mostly，I use Java to build the backend of project，using the framework like **Spring Boot**, Mybatis Plus, Redis. On the frontend, I choose **Vue** and Element to achieve web development.
-- In ML task, I am proficient in **object detection** and prefer to use PyTorch for training models. Therefore, I use Python frameworks like Flask or Django to build simple applications or develop APIs.
+- In ML task, I am proficient in **object detection** and prefer to use PyTorch for neural network training . Therefore, I use Python frameworks like Flask or Django to build simple applications or develop APIs.
