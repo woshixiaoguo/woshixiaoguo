@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center"> :octocat: <b>
   <a href="https://guoguo.host/blog">Website</a> / 
-  <a href="https://guoguo.host/resume-en.pdf">Resume</a> / 
+  <a href="https://guoguo.host/resume_en.pdf">Resume</a> / 
   <a href="">Projects</a>
 </b> :octocat: </p>
 
